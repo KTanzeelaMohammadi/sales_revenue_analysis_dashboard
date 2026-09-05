@@ -2,7 +2,7 @@
 
 An interactive data analytics dashboard built with Python to analyze sales, revenue, profitability, product performance, and regional trends.
 
-## 🚀 Project Overview
+## 🚀 Project Overview 
 
 This project analyzes sales transaction data to identify key business performance indicators and generate actionable insights through interactive visualizations.
 
