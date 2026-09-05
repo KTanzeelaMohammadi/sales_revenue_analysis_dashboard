@@ -53,7 +53,7 @@ The dashboard enables users to explore business performance using dynamic Region
 | File | Description |
 |---|---|
 | `Sales_Revenue_Analysis_Dashboard.ipynb` | Complete data analysis and interactive dashboard |
-| `sales_data.csv` | Dataset used for the analysis |
+| `sales_data .csv` | Dataset used for the analysis |
 | `dashboard.png` | Dashboard preview |
 
 ## 🎯 Skills Demonstrated
